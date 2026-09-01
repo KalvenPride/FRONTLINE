@@ -1,0 +1,20 @@
+{
+  "name": "FRONTLINE — Atelier de visibilité artistique",
+  "short_name": "FRONTLINE",
+  "description": "Outil mobile interactif pour structurer la visibilité, tester des stratégies de plateformes et développer des projets artistiques.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
+  "orientation": "portrait-primary",
+  "lang": "fr-CA",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
